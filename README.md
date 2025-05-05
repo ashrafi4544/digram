@@ -1,4 +1,4 @@
-## 0.4: New note diagram
+## Answer to the exercise 0.4: New note diagram
 
 ```mermaid
 sequenceDiagram
@@ -39,7 +39,7 @@ sequenceDiagram
 
     Note right of browser: Browser renders the updated list of notes on the page
 ```
-## 0.5: Single page app diagram
+## Answer to the exercise 0.5: Single page app diagram
 
 ```mermaid
 sequenceDiagram
@@ -70,7 +70,7 @@ sequenceDiagram
 
     Note right of browser: The browser renders the notes dynamically using JavaScript without reloading the page
 ```
-## 0.6: New note in Single page app diagram
+## Answer to the exercise 0.6: New note in Single page app diagram
  ```mermaid
 sequenceDiagram
     participant browser
